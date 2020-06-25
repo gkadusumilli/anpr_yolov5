@@ -5,4 +5,4 @@ val: /content/anpr_yolov5/data/val.txt
 nc: 1
 
 # class names
-names: ['license_plate']
+names: ['license plate']
