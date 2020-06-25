@@ -1,36 +1,17 @@
-/content/anpr_yolov5/data/images/valid/car_225.jpeg
-/content/anpr_yolov5/data/images/valid/car_202.jpeg
-/content/anpr_yolov5/data/images/valid/car_211.jpeg
-/content/anpr_yolov5/data/images/valid/car_227.jpeg
-/content/anpr_yolov5/data/images/valid/car_230.jpeg
-/content/anpr_yolov5/data/images/valid/car_224.jpeg
-/content/anpr_yolov5/data/images/valid/car_207.jpeg
-/content/anpr_yolov5/data/images/valid/car_229.jpeg
-/content/anpr_yolov5/data/images/valid/car_214.jpeg
-/content/anpr_yolov5/data/images/valid/car_231.jpeg
-/content/anpr_yolov5/data/images/valid/car_223.jpeg
-/content/anpr_yolov5/data/images/valid/car_213.jpeg
-/content/anpr_yolov5/data/images/valid/car_222.jpeg
-/content/anpr_yolov5/data/images/valid/car_206.jpeg
-/content/anpr_yolov5/data/images/valid/car_208.jpeg
-/content/anpr_yolov5/data/images/valid/car_215.jpeg
-/content/anpr_yolov5/data/images/valid/car_236.jpeg
-/content/anpr_yolov5/data/images/valid/car_209.jpeg
-/content/anpr_yolov5/data/images/valid/car_217.jpeg
-/content/anpr_yolov5/data/images/valid/car_203.jpeg
-/content/anpr_yolov5/data/images/valid/car_234.jpeg
-/content/anpr_yolov5/data/images/valid/car_226.jpeg
-/content/anpr_yolov5/data/images/valid/car_204.jpeg
-/content/anpr_yolov5/data/images/valid/car_216.jpeg
-/content/anpr_yolov5/data/images/valid/car_219.jpeg
-/content/anpr_yolov5/data/images/valid/car_232.jpeg
-/content/anpr_yolov5/data/images/valid/car_228.jpeg
-/content/anpr_yolov5/data/images/valid/car_220.jpeg
-/content/anpr_yolov5/data/images/valid/car_210.jpeg
-/content/anpr_yolov5/data/images/valid/car_212.jpeg
-/content/anpr_yolov5/data/images/valid/car_233.jpeg
-/content/anpr_yolov5/data/images/valid/car_201.jpeg
-/content/anpr_yolov5/data/images/valid/car_218.jpeg
-/content/anpr_yolov5/data/images/valid/car_205.jpeg
-/content/anpr_yolov5/data/images/valid/car_221.jpeg
-/content/anpr_yolov5/data/images/valid/car_235.jpeg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104526_20190911104526.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104526_20190911104526_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104622_20190911104622.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104622_20190911104622_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104627_20190911104627.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104627_20190911104627_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104649_20190911104649.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104649_20190911104649_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104657_20190911104657.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104657_20190911104657_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104720_20190911104720.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104720_20190911104720_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104732_20190911104732.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190911104732_20190911104732_1.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190914080245_20190914080245.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190914080439_20190914080439.jpg
+/content/drive/My Drive/LPR/images/NVR_ch3_J_20190914080717_20190914080717.jpg
